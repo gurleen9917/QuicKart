@@ -8,12 +8,12 @@ Here are some snapshots of the website
 
 =======
 <b>Features</b>
-Product Collections: Browse through diverse collections of products, including electronics, apparel, home goods, and more.
-Product Search and Filters: Easily search for products and apply filters to find exactly what you're looking for.
-Shopping Cart: Add products to your cart, view cart details, and proceed to checkout seamlessly.
-Responsive Design: Fully responsive design to provide a consistent experience across all devices.
-Product Details: View detailed information about each product, including images, descriptions, and reviews.
-Order Management: Track orders and view past purchase history from your user account.
-Uses Third API
-Pagination
+1. Product Collections: Browse through diverse collections of products, including electronics, apparel, home goods, and more.
+2. Product Search and Filters: Easily search for products and apply filters to find exactly what you're looking for.
+3. Shopping Cart: Add products to your cart, view cart details, and proceed to checkout seamlessly.
+4. Responsive Design: Fully responsive design to provide a consistent experience across all devices.
+5. Product Details: View detailed information about each product, including images, descriptions, and reviews.
+6. Order Management: Track orders and view past purchase history from your user account.
+7. Uses Third API
+8. Pagination
 
