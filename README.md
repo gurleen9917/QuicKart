@@ -14,6 +14,6 @@ Here are some snapshots of the website
 4. Responsive Design: Fully responsive design to provide a consistent experience across all devices.
 5. Product Details: View detailed information about each product, including images, descriptions, and reviews.
 6. Order Management: Track orders and view past purchase history from your user account.
-7. Uses Third API
+7. Uses Third Party API
 8. Pagination
 
